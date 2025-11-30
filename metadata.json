@@ -1,0 +1,5 @@
+{
+  "name": "KanjiZen - Beginner Japanese Course (JLPT N5)",
+  "description": "A focused, Zen-style application for European beginners to learn Japanese Kanji characters. Features curated lessons, quizzes, and an AI Sensei powered by Gemini to explain nuances and mnemonics.",
+  "requestFramePermissions": []
+}
